@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "マザーランド",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-03T09:57:43.639448Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マザーランド",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_マザーランド_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マザーランド",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_マザーランド_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マザーランド - Motherland",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_マザーランド_-_Motherland_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マザーランド (\"Motherland\")",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_マザーランド_(_Motherland_)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Motherland (マザーランド)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_Motherland_(マザーランド)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マザーランド",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_マザーランド_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "マザーランド (Motherland)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_マザーランド_(Motherland)_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マザーランド",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_マザーランド_Ado.txt"
+    }
+  ]
+}
